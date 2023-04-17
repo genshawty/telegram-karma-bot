@@ -1,0 +1,11 @@
+*.session
+test.py
+backup_app.py
+settings.py
+*.log
+karma_tg/admins.json
+karma_tg/dbtest.py
+handlers/backup.py
+*.db
+data/
+__pycache__
